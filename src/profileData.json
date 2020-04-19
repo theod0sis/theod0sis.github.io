@@ -1,0 +1,86 @@
+{
+	"landing": {
+		"firstName": "Theodosis",
+		"lastName": "Aggelis",
+		"phoneNumber": "+30-6944816378",
+		"bio": "I am a software engineer with passion on coding. My tech stack includes Java and Javascript but i love learning new skills and programming languages. On my current work i mostly use Java Spring but for my personal projects i try other technologies like node.js and express.js. I believe blockchain will change how things work on the internet right now so i decided to learn more about how it works and i got a Blockchain Developer nanodegree from Udacity. I mostly know backend technologies but i always check what new things for frontend are out and i try them on personal projects.",
+		"email": "theodosios.aggelis@gmail.com",
+    	"linkedin": "https://www.linkedin.com/in/theodosis-aggelis/",
+		"github": "https://github.com/theod0sis"
+	},
+	"experience": [
+		{
+				"position": "Software Developer",
+				"organization": "Cognity",
+				"aboutWork": "Working with one of the largest telecom companies in Greece, by making analysis,development,estimation and planning for new projects and providing support. Projects I have been working on or i still work : • Setting up Microservices in Kubernetes cluster( CI-CD, JenkinsX, Docker, Helm).• Payment Gateway ( Spring boot,Zuul LB, RabbitMQ,Eureka) and Recurring payments • Mobile app backend (backend migration in Java Spring,Project Reactor, Redis, WIldfly application server configuration set up with cluster, still supporting and making change requests) • Mobile application backend for technicians ( Java Spring, consuming web services (wsdl) and push notifications with Rest technologies) • E-bill portal for fixed users • Portal for Mobile users (WebLogic portal)",
+				"fromDate": "January 2017",
+				"toDate": "Present"
+		},
+		{
+			"position": "Software Developer internship",
+			"organization": "insurancemarket.gr",
+			"aboutWork": " •Backend and Frontend Developer (php, html, java,sql) •Debugging •Forum Creation (http://forum.insurancemarket.gr) •Blog administration ( Joomla)",
+			"fromDate": "December 2018",
+			"toDate": "January 2019"
+		}
+	],
+	"education": [
+		{
+			"university": "Athens University of Economics and Business",
+			"degree": "MS Information Systems",
+			"fromDate": "September 2018",
+			"toDate": "present"
+		},{
+			"university": "Udacity Nanodegree",
+			"degree": "Blockchain Developer",
+			"fromDate": "February 2020",
+			"toDate": "April 2020"
+		},{
+			"university": "Athens University of Economics and Business",
+			"degree": "Bachelor of Technology",
+			"fromDate": "September 2010",
+			"toDate": "January 2015"
+		},{
+			"university": "Coding Bootcamp - Alliance For Digital Employability (HePIS, CEPIS, AUEB)",
+			"degree": "Software Developer Practitioner (Java)",
+			"fromDate": "October 2016",
+			"toDate": "January 2017"
+		}
+	],
+	"skills": [{
+			"name": "Java"
+		},
+		{
+			"name": "Spring Framework"
+		},
+		{
+			"name": "Microservices"
+		},
+		{
+			"name": "REST services"
+		},
+		{
+			"name": "Nodejs"
+		},
+		{
+			"name": "Javascript"
+		},
+		{
+			"name": "Solidity"
+		},
+		{
+			"name": "Kubernetes"
+		}
+	],
+	"interests": {
+		"paragraphOne": "Apart from being a software developer, I enjoy most of my time being outdoors. I like playing football.",
+		"paragraphTwo": "When forced indoors, I watch  movies and television shows and I spend a large amount of my free time exploring the latest technology advancements in the backend and frontend web development world."
+	},
+	"awards": [{
+			"awardDetail": "Blockchain Developer "
+		},
+		{
+			"awardDetail": "Software Developer Practitioner Certificate"
+		}
+	]
+}
