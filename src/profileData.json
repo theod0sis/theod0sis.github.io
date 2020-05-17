@@ -36,6 +36,11 @@
 			"fromDate": "February 2020",
 			"toDate": "April 2020"
 		},{
+            "university": "Udacity Nanodegree",
+            "degree": "Data Structures and Algorithms",
+            "fromDate": "March 2020",
+            "toDate": "May 2020"
+		},{
 			"university": "Athens University of Economics and Business",
 			"degree": "Bachelor of Technology",
 			"fromDate": "September 2010",
@@ -77,10 +82,17 @@
 		"paragraphTwo": "When forced indoors, I watch  movies and television shows and I spend a large amount of my free time exploring the latest technology advancements in the backend and frontend web development world."
 	},
 	"awards": [{
-			"awardDetail": "Blockchain Developer "
+			"awardDetail": "Blockchain Developer",
+			"awardLink": "https://confirm.udacity.com/C76EAGPG"
 		},
+        {
+            "awardDetail": "Data Structures and Algorithms",
+			"awardLink": "https://confirm.udacity.com/LG7KCT2M"
+        },
 		{
-			"awardDetail": "Software Developer Practitioner Certificate"
+			"awardDetail": "Software Developer Practitioner Certificate",
+			"awardLink": ""
+
 		}
 	]
 }

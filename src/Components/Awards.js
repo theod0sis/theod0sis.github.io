@@ -21,6 +21,8 @@ class Awards extends Component {
               <li key={index}>
                 <FontAwesomeIcon icon={faAward} color="#ffc107" />
                 <span className="ml-2"> {data.awardDetail} </span>
+                {data.awardLink &&
+                      <a href={data.awardLink}>See credential</a>}
               </li>
             ))
           }
